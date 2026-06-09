@@ -1,2 +1,2 @@
-# ToolTrims
-A data pack for Minecraft 1.21.11 that lets you trim weapons and tools
+# Issues, Suggestions and Translations for Tool Trims
+Tool Trims is a Minecraft data pack that you can download from [Modrinth](https://modrinth.com/datapack/tool-trims) as a data and resource pack combo or as a mod.

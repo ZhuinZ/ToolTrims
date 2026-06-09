@@ -1,0 +1,18 @@
+{
+  "pack": {
+    "pack_format": 34,
+    "supported_formats": [34, 101],
+    "min_format": [ 34, 0 ],
+    "max_format": [ 84, 0 ],
+    "description": [
+      {
+        "text": "",
+        "color": "gray",
+        "extra": [
+          { "text": "For 1.21.1+", "color": "green" }, { "text": " | by ", "color": "gray" }, { "text": "JoeFly", "color": "dark_aqua"},
+          { "text": " | Only the translations for Tool Trims", "color": "gray" }
+        ]
+      }
+    ]
+  }
+}
