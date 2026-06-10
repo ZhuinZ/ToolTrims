@@ -1,6 +1,4 @@
 {
-    "tooltrims.title": "Tool Trims",
-
     "advancements.adventure.shiny_tools.title": "Ferramentas brilhantes",
     "advancements.adventure.shiny_tools.description": "Reveste uma ferramenta numa Mesa de Ferraria",
     "advancements.adventure.tools_of_all_styles.title": "Ferramentas de todos os estilos",
@@ -10,10 +8,5 @@
     "trim_pattern.tooltrims.linear": "Revestimento de linha",
     "trim_pattern.tooltrims.tracks": "Revestimento de faixas",
     "trim_pattern.tooltrims.charge": "Revestimento de carga",
-    "trim_pattern.tooltrims.frost":  "Revestimento de geada",
-
-    "tooltip.linear_template": "Linear Tool Trims Smithing Template\uE035\uD000\uE005",
-    "tooltip.tracks_template": "Tracks Tool Trims Smithing Template\uE035\uD001\uE005",
-    "tooltip.charge_template": "Charge Tool Trims Smithing Template\uE035\uD002\uE005",
-    "tooltip.frost_template":  "Frost Tool Trims Smithing Template\uE034\uD003\uE005"
+    "trim_pattern.tooltrims.frost":  "Revestimento de geada"
 }
