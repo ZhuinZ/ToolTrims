@@ -12,15 +12,16 @@ To report a bug, simply go to the Issues tab and click New issue. Make sure to i
 - Slimy (Ukrainian and Russian)
 
 ## Contributing with Translations
-1. Click Fork and then Create Fork
-2. On your Fork, press `.` to go to github.dev
+1. Click Fork and then Create fork
+2. On your fork, press `.` to go to github.dev
 3. Go to the folder `assets/tooltrims/lang` where you'll find a json file for each language, you can find what is the in-game locale code of your language in the [Minecraft Wiki](https://minecraft.wiki/w/Language#Languages)
 4. If the locale code of your language already exists as a json file:
     - Copy any translation keys that are not there from the `en_us.json` file and translate them
     - If there is a TODO key there and you can complete it, do so and remove the TODO key
-    - For now, do not translate any keys that contain special characters, such as `\uE035`
+    - For now, do not include any keys that contain special characters, such as `\uE035`
 5. If the locale code of your language does not exist as a json file yet:
-    - Duplicate the `en_us.json` file and rename it to your locale code, then translate the keys that do not contain special characters (like `\uE035`)
+    - Duplicate the `en_us.json` file, rename it to your locale code and translate the keys
+    - Remove any keys that contain special characters (like `\uE035`)
 6. Once your done, click Source Control on the side bar, mention the locale code of the language you edited/added in the Message field and then click Commit & Push
 7. Now you have commited the changes to your fork, you can click Contribute on the page of the fork and then click Open pull request
 
