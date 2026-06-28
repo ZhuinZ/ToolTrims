@@ -1,14 +1,20 @@
 {
-    "TODO": "Any words in this file related to the Toolsmithing Table from v2.x have to be replaced with Smithing Table",
+    "tooltrims.title": "Отделка инструментов",
 
-    "advancements.adventure.shiny_tools.title": "Сверкай по новому!",
-    "advancements.adventure.shiny_tools.description": "Нанесите Инструментальный Шаблон на инструмент с помощью Инструментального Стола",
+    "advancements.adventure.shiny_tools.title": "Блестящие инструменты",
+    "advancements.adventure.shiny_tools.description": "Создайте инструмент с отделкой в кузнечном столе",
     "advancements.adventure.tools_of_all_styles.title": "Инструменты всех стилей",
-    "advancements.adventure.tools_of_all_styles.description": "Нанеси каждый Инструментальный Шаблон хотя бы раз",
+    "advancements.adventure.tools_of_all_styles.description": "Используйте каждый шаблон отделки инструментов хотя бы один раз",
 
-    "template.tooltrims.applies_to": "Оружия и инструменты",
+    "template.tooltrims.applies_to": "Оружие и инструменты",
+
     "trim_pattern.tooltrims.linear": "Отделка «Линия»",
     "trim_pattern.tooltrims.tracks": "Отделка «Рельсы»",
     "trim_pattern.tooltrims.charge": "Отделка «Заряд»",
-    "trim_pattern.tooltrims.frost":  "Отделка «Мороз»"
+    "trim_pattern.tooltrims.frost": "Отделка «Мороз»",
+
+    "tooltip.linear_template": "Шаблон отделки «Линия»",
+    "tooltip.tracks_template": "Шаблон отделки «Рельсы»",
+    "tooltip.charge_template": "Шаблон отделки «Заряд»",
+    "tooltip.frost_template": "Шаблон отделки «Мороз»"
 }
