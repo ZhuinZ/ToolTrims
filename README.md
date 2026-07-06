@@ -10,6 +10,7 @@ To report a bug, simply go to the `Issues` tab and click `New issue`. Make sure 
 - ESSENTIALS_GAMES (Polish)
 - RandomKuchen (German)
 - Slimy (Ukrainian and Russian)
+- hellreign (Russian)
 
 ## Contributing with Translations
 1. Click `Fork` above and then `Create fork`
